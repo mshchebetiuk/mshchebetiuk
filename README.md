@@ -88,12 +88,6 @@ React application for managing daily tasks.
 - REST API
 - Front-End architecture
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshchebetiuk&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshchebetiuk&layout=compact&theme=github_dark)
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/maksym-shchebetiuk-bb53102a0/) • [Telegram](https://t.me/mshchebetiuk)
