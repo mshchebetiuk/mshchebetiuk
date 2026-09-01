@@ -1,103 +1,185 @@
-# Hi there! I'm Maksym 👋
+# Hi, I'm Maksym 👋
 
-### Junior Front-End Developer
+### Junior Front-End Developer | React • Next.js • TypeScript
 
-I'm a Junior Front-End Developer focused on building responsive, accessible and user-friendly web applications.
+I build modern, responsive, and maintainable web applications with a focus on clean code, user experience, and practical problem-solving.
 
-Currently improving my skills in React, Next.js and TypeScript through regular practice and personal projects.
+My main focus is **Front-End Development**, while I'm also expanding my skills into **Full-Stack Development** with Next.js, PostgreSQL, and Prisma.
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
+
+* 💻 Building web applications with React, Next.js, and TypeScript
+* 🎨 Focused on responsive and accessible user interfaces
+* ⚙️ Exploring full-stack development and application architecture
+* 🗄️ Working with REST APIs, PostgreSQL, Prisma, and SQLite
+* 🧪 Practicing testing and code quality
+* 📚 Continuously improving through practical projects
+* 🎯 Open to Junior Front-End / Full-Stack opportunities
+
+## 🛠️ Tech Stack
 
 ### Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 ### Back-End & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+`Next.js API Routes` `Server Actions` `REST API` `PostgreSQL` `SQLite` `Prisma`
 
 ### Testing & Code Quality
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+`Vitest` `ESLint` `Prettier`
 
-## 🔧 Tools
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+`Git` `GitHub` `VS Code` `npm` `Vercel` `Netlify`
 
-## 🚀 Projects
+---
+
+## 🚀 Featured Projects
+
+### 📊 DevBoard
+
+Full-stack project management dashboard for managing projects, tasks, Kanban workflows, and analytics.
+
+**Tech:** Next.js • React • TypeScript • PostgreSQL • Prisma • Tailwind CSS
+
+**Highlights:**
+
+* Project and task management
+* Kanban board with drag-and-drop
+* Search, filtering, sorting, and pagination
+* Dashboard statistics
+* Analytics and data visualization
+* Server-side data operations
+* Structured service and data-access layers
+* Responsive UI
+
+[View Repository](https://github.com/mshchebetiuk/devboard)
+
+---
 
 ### 🛒 E-Commerce Store
 
-E-Commerce application built with Next.js and TypeScript.
+Modern responsive e-commerce application for browsing and managing products.
 
-**Stack**: Next.js, TypeScript, React, Tailwind CSS, REST API
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • REST API
 
-- Product catalogue
-- Search and sorting
-- Pagination
-- Product details
-- Shopping cart
-- Responsive design
+**Highlights:**
 
-[Repository](https://github.com/mshchebetiuk/e-commerce)
+* Product catalogue
+* Product search
+* Category filtering
+* Sorting and pagination
+* Product details
+* Shopping cart
+* Favorites
+* Dark / Light theme
+* Local Storage persistence
+* Responsive design
+
+[View Repository](https://github.com/mshchebetiuk/e-commerce)
 
 ---
 
 ### ✅ TaskFlow
-Full-stack task management application developed as my Bachelor's project.
 
-**Stack:** Next.js, TypeScript, Prisma, SQLite, Tailwind CSS
+Full-stack task management application with authentication and persistent data storage.
 
-- Authentication
-- Task CRUD
-- Filters
-- Dashboard
-- Responsive UI
+**Tech:** Next.js • TypeScript • Prisma • SQLite • Tailwind CSS
 
-[Repository](https://github.com/mshchebetiuk/task-manager)
+**Highlights:**
+
+* User authentication
+* Protected dashboard
+* Task CRUD operations
+* REST API
+* User-specific tasks
+* Task filtering
+* Persistent database storage
+* Responsive UI
+
+[View Repository](https://github.com/mshchebetiuk/task-manager)
 
 ---
 
 ### 📝 Todo App
+
 React application for managing daily tasks.
 
-**Stack**: JavaScript ES6+, React, CSS BEM
+**Tech:** React • JavaScript • CSS • Vite
 
-- Add / edit / delete todos
-- Filters
-- localStorage
-- Accessibility
-- Responsive design
+**Highlights:**
 
-[Repository](https://github.com/mshchebetiuk/todo-app)
+* Add, edit, and delete tasks
+* Task completion
+* Status filtering
+* Local Storage
+* Responsive design
+* Accessibility
+* Lighthouse optimization
 
-## 📚 Currently Learning
+[View Repository](https://github.com/mshchebetiuk/todo-app)
 
-- Advanced React
-- Next.js
-- TypeScript
-- Testing
-- REST API
-- Front-End architecture
+---
+
+### 🌐 Responsive Landing Page
+
+Responsive landing page focused on semantic HTML, modern CSS, accessibility, and performance.
+
+**Tech:** HTML5 • CSS3 • Flexbox • CSS Grid • BEM
+
+**Highlights:**
+
+* Responsive layout
+* Semantic HTML
+* Flexbox and CSS Grid
+* BEM methodology
+* Accessibility
+* Lighthouse optimization
+
+[View Repository](https://github.com/mshchebetiuk/responsive-landing-page)
+
+---
+
+## 📚 Currently Improving
+
+* Advanced React patterns
+* Next.js architecture
+* TypeScript
+* Full-Stack Development
+* Testing
+* REST API design
+* PostgreSQL & Prisma
+* Data structures and algorithms
+* Front-End architecture
+* Clean and maintainable code
+
+## 📈 Development Focus
+
+```text
+Front-End Development   ████████████████████
+React / Next.js         ████████████████████
+TypeScript              ███████████████████░
+Full-Stack              ███████████████░░░░░
+Testing                 ████████████░░░░░░░░
+Algorithms              ███████████░░░░░░░░░
+```
+
+## 🤝 Open To
+
+* Junior Front-End Developer
+* Junior React Developer
+* Junior Next.js Developer
+* Junior Full-Stack Developer
+* Trainee / Internship opportunities
 
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/maksym-shchebetiuk-bb53102a0/) • [Telegram](https://t.me/mshchebetiuk)
+
+---
+
+### Thanks for visiting my profile! 👋
+
+I'm continuously learning, building projects, and improving my software development skills.
