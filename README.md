@@ -155,17 +155,6 @@ Responsive landing page focused on semantic HTML, modern CSS, accessibility, and
 * Front-End architecture
 * Clean and maintainable code
 
-## 📈 Development Focus
-
-```text
-Front-End Development   ████████████████████
-React / Next.js         ████████████████████
-TypeScript              ███████████████████░
-Full-Stack              ███████████████░░░░░
-Testing                 ████████████░░░░░░░░
-Algorithms              ███████████░░░░░░░░░
-```
-
 ## 🤝 Open To
 
 * Junior Front-End Developer
