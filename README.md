@@ -1,6 +1,6 @@
 # Hi, I'm Maksym 👋
 
-### Trainee / Junior Full-Stack JavaScript Developer
+### Full-Stack TypeScript Developer
 
 Focused on building modern full-stack web applications with **React, Next.js, TypeScript, Node.js, and Express.js**.
 
